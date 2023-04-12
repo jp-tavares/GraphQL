@@ -2,13 +2,6 @@
   "users": [
     {
       "id": 2,
-      "nome": "Ana Torre",
-      "ativo": true,
-      "email": "a@a.com",
-      "role": 1
-    },
-    {
-      "id": 2,
       "nome": "Gabriel Costa",
       "ativo": true,
       "email": "g@g.com",
@@ -41,6 +34,28 @@
       "ativo": true,
       "email": "m@m.com",
       "role": 2
+    },
+    {
+      "nome": "Teste",
+      "ativo": true,
+      "email": "j@j.com",
+      "role": 1,
+      "id": 7
+    },
+    {
+      "nome": "João Palo Silva",
+      "ativo": false,
+      "email": "j@j.com",
+      "role": 1,
+      "createdAt": "2023-05-27T00:00:00.000Z",
+      "id": 8
+    },
+    {
+      "nome": "Teste12",
+      "ativo": true,
+      "email": "j@p.com",
+      "role": 2,
+      "id": 9
     }
   ],
   "roles": [
